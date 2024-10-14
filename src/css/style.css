@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-color: #0b3232;
+    --secondary-color: #5CAAB4;
+    --accent-color: #28d9f0;
+    --black-color: rgb(6, 6, 6);
+    --white-color: rgb(243, 241, 241);
+    --margin-botom: 12px;
+}
+
+
+/* general styling */
+body {
+    font-family: "Open Sans", sans-serif;
+    line-height: 1.25;
+}
